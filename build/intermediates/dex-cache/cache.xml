@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_df41ddbf322979f38d9be7abbfb61dadc7b04c92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/androidsdklinux/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_5a1a61a05993c25083a1584f46c34386280f1e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_4890a58381e5197edf60e6c46d7df4ad5afb582e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_0a9b885d3e7898f4b95b8c0e90d4a1caf7c9388e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_d0f5f9feb37397bae3b05214d1401bde87c56da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7f7cd74ca63ef39b142eb8a9376ebe180e178ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_7999be2ff977357ded0d9c5d825c934692e87af2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_2d1aad3e6fc3fffb1e2ceebe0a487fa6ae074387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_dd378de1161f848e3590abc9b9bf1c6450985ff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_c03b8b6ad624363a346f92357af5bf304893d247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_92e8115f5a14276cfd9ac9881ab2147441402e5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/androidsdklinux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_62e25e82a006e3048072fd7e769bf67f3bece7b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_9a9a68adcb3c83aae010e4a7841df7a647caf80c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_b1bbaa3adf2ae5946dfd155be34054cbee03b0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_bac73cfca3c354d4eb3993722d7c49a0145cd888.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c2d3adb5c8829061dd22006d57c869f6d9e6ee03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_11059cae1df9a72be491a0d2da017534dac051bc.jar" />
+    </item>
+
+</items>

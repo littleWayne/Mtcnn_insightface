@@ -1,0 +1,15 @@
+# ninja log v5
+22	12888	0	CMakeFiles/facerecognition.dir/src/main/cpp/arcface_jni.cpp.o	27da44fba155489f
+22	13453	0	CMakeFiles/facerecognition.dir/src/main/cpp/base.cpp.o	d7bd901065671eac
+23	13453	0	CMakeFiles/facerecognition.dir/src/main/cpp/mtcnn.cpp.o	6e0302c47f3d8280
+23	13454	0	CMakeFiles/facerecognition.dir/src/main/cpp/mtcnn_jni.cpp.o	c2be295958b974b
+22	13454	0	CMakeFiles/facerecognition.dir/src/main/cpp/arcface.cpp.o	31cade1f9e375b93
+13454	16407	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfacerecognition.so	47826fc5c9221c5f
+226	9805	0	CMakeFiles/facerecognition.dir/src/main/cpp/arcface.cpp.o	31cade1f9e375b93
+9805	11841	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfacerecognition.so	47826fc5c9221c5f
+15	3679	0	CMakeFiles/facerecognition.dir/src/main/cpp/base.cpp.o	d7bd901065671eac
+16	3702	0	CMakeFiles/facerecognition.dir/src/main/cpp/mtcnn_jni.cpp.o	c2be295958b974b
+15	3766	0	CMakeFiles/facerecognition.dir/src/main/cpp/arcface.cpp.o	31cade1f9e375b93
+15	3768	0	CMakeFiles/facerecognition.dir/src/main/cpp/arcface_jni.cpp.o	27da44fba155489f
+15	4199	0	CMakeFiles/facerecognition.dir/src/main/cpp/mtcnn.cpp.o	6e0302c47f3d8280
+4199	5352	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libfacerecognition.so	47826fc5c9221c5f

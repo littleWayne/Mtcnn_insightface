@@ -1,0 +1,3 @@
+/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/wayne/Mtcnn_insightface_test1/Mtcnn_insightface/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/facerecognition.dir

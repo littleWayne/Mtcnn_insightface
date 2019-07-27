@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:id="@+id/similarity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="undetected!" />
+
+    <!--显示照片-->
+    <ImageView
+        android:id="@+id/show_picture"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/picture_path"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unknown!" />
+
+    <!--<Button-->
+        <!--android:id="@+id/save_photo"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Save" />-->
+
+</LinearLayout>

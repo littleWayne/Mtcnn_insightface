@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <!--显示照片-->
+    <ImageView
+        android:id="@+id/show_picture_1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+    <ImageView
+        android:id="@+id/show_picture_2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/match"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Match" />
+
+    <TextView
+        android:id="@+id/match_result"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="unknown!" />
+
+</LinearLayout>
