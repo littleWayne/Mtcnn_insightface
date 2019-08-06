@@ -50,7 +50,7 @@ public class PhotoUtil {
         //Bitmap bmp = getCompressPhoto(originpath);;
 
         // 修复图片被旋转的角度
-        Bitmap bitmap = rotaingImageView(angle, bmp);
+        Bitmap bitmap = rotatingImageView(angle, bmp);
 
 
         // 保存修复后的图片并返回保存后的图片路径
@@ -69,7 +69,7 @@ public class PhotoUtil {
         //Bitmap bmp = getCompressPhoto(originpath);;
 
         // 修复图片被旋转的角度
-        Bitmap bitmap = rotaingImageView(angle, bmp);
+        Bitmap bitmap = rotatingImageView(angle, bmp);
 
         return bitmap;
     }
@@ -109,7 +109,7 @@ public class PhotoUtil {
      * @param bitmap 图片对象
      * @return 旋转后的图片
      */
-    public static Bitmap rotaingImageView(int angle, Bitmap bitmap) {
+    public static Bitmap rotatingImageView(int angle, Bitmap bitmap) {
         Bitmap returnBm = null;
         // 根据旋转角度，生成旋转矩阵
         Matrix matrix = new Matrix();
